@@ -1,0 +1,4 @@
+- name: playbook
+  hosts: all
+  roles:
+    - ansible_role

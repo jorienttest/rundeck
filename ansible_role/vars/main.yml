@@ -1,0 +1,3 @@
+---
+# vars file for myrole
+myhostname: "{{ ansible_hostname }}"
